@@ -2,7 +2,7 @@
 
 ![banner](https://user-images.githubusercontent.com/placeholder/hero.gif)
 
-> 💬 *“Talk is cheap. Show me the code.”* — Linus Torvalds
+> 💬 *“The computer was born to solve problems that did not exist before.”* — Bill Gates
 
 ---
 
@@ -11,10 +11,10 @@ thedeppside@gmail.com
 ----------------                                                        ░░░░░░░░░░░░░░░░░
 Name: Antonio (Depp1135)                                                ░░░░░▀▄░░░▄▀░░░░░
 Degree: BSc Computer Engineering — Politecnico di Torino                ░░░░▄█▀███▀█▄░░░░
-Team: pwnthem0le (CTF)                                                  ░░░█▀███████▀█░░░               
-Tracks: pwn, reversing                                                  ░░░█░█▀▀▀▀▀█░█░░░        
-I/O: coding ↔ debugging                                                 ░░░░░░▀▀░▀▀░░░░░░        
-Key: flag(b0f_g03s_brrr)                                                ░░░░░░░░░░░░░░░░░                                                 
+Team: pwnthem0le (CTF)                                                  ░░░█▀███████▀█░░░
+Tracks: pwn, reversing                                                  ░░░█░█▀▀▀▀▀█░█░░░
+I/O: coding ↔ debugging                                                 ░░░░░░▀▀░▀▀░░░░░░
+Key: flag(b0f_g03s_brrr)                                                ░░░░░░░░░░░░░░░░░                                        
 ```
 
 
