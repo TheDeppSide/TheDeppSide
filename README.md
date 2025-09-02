@@ -7,25 +7,17 @@
 ---
 
 ```text
-thedeppside@gmail.com
-----------------
-Name: Antonio (Depp1135)
-Degree: BSc Computer Engineering — Politecnico di Torino
-Team: pwnthem0le (CTF)
-Tracks: pwn, reversing
-I/O: coding ↔ debugging
-Key: flag(b0f_g03s_brrr)
+thedeppside@gmail.com                                                   ░░░░░░░░░░░░░░░░░
+----------------                                                        ░░░░░▀▄░░░▄▀░░░░░
+Name: Antonio (Depp1135)                                                ░░░░▄█▀███▀█▄░░░░
+Degree: BSc Computer Engineering — Politecnico di Torino                ░░░█▀███████▀█░░░
+Team: pwnthem0le (CTF)                                                  ░░░█░█▀▀▀▀▀█░█░░░               
+Tracks: pwn, reversing                                                  ░░░░░░▀▀░▀▀░░░░░░        
+I/O: coding ↔ debugging                                                 ░░░░░░░░░░░░░░░░░        
+Key: flag(b0f_g03s_brrr)                                                                                                 
 ```
 
-```
-░░░░░░░░░░░░░░░░░
-░░░░░▀▄░░░▄▀░░░░░
-░░░░▄█▀███▀█▄░░░░
-░░░█▀███████▀█░░░
-░░░█░█▀▀▀▀▀█░█░░░
-░░░░░░▀▀░▀▀░░░░░░
-░░░░░░░░░░░░░░░░░
-```
+
 
 ## About me
 I love to code and debug—especially when it means taking things apart and putting them back better.  
