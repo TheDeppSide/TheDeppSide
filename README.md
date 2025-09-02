@@ -1,6 +1,6 @@
 # Hi, I'm Antonio — aka **Depp1135** 👋
 
-![banner](https://user-images.githubusercontent.com/placeholder/hero.gif)
+
 
 > 💬 *“The computer was born to solve problems that did not exist before.”* — Bill Gates
 
