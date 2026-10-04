@@ -21,14 +21,13 @@ Key: flag{b0f_g03s_brrr}                                                ░░�
 
 
 ## About me
-I love to code and debug—especially when it means taking things apart and putting them back better.  
-I’m a **Computer Engineering** bachelor student at **Politecnico di Torino** and a member of the **@pwnthem0le** CTF team, competing mainly in **pwn** and **rev**. I enjoy clean code, tiny tools, and clear write-ups. Always up for interesting bugs, hard problems, and collaborative learning.
+I love to code and debug, especially when it means taking things apart and putting them back better.  
+I’m a **Computer Engineering** bachelor student at **Politecnico di Torino** and a member of the **@pwnthem0le** CTF team, competing mainly in **pwn** and **rev**. 
 
 ## What I’m into
-- Mostly **IT** — systems, networks, and everything in between
+- Mostly **IT**:  systems, networks, and everything in between
 - **Security & CTFs**: binary exploitation (pwn) and reversing
 - **Cybersecurity** — vulnerability research, hardening, tooling
-- **Vibecoding** — quick scripts, fun experiments, automation
 
 
 ## Find me
